@@ -1,3 +1,12 @@
+In this basic app below topics are covered
+
+- Multiple Component
+- State
+- Event Binding
+- Passing event to children
+- Routing
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

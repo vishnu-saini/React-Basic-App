@@ -12,7 +12,8 @@ export class Header extends React.Component {
 			    </div>
 			    <ul className="nav navbar-nav">
 			    	{this.props.menuItems.map((menuItem,i) => <li key={i}><a href="#">{menuItem}</a></li> )}
-			      <li className="active"><a href="#">ActiveMenuItem</a></li>
+			      <li className="active"><a href="/page2">Users</a></li>
+						<li className="active"><a href="/page1">Counter</a></li>
 			    </ul>
 			  </div>
 			</nav>
